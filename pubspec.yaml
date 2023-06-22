@@ -1,0 +1,30 @@
+name: flutter_application_1
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.3 <4.0.0"
+
+dependencies:
+  dropdown_button2: ^2.2.4
+  firebase_auth: ^4.6.3
+  firebase_core: ^2.14.0
+  flutter:
+    sdk: flutter
+  intl_phone_field: ^3.1.0
+  pinput: ^2.2.31
+  wave: ^0.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - Images/Frame.png
+    - Images/Vector.png
+    - Images/shipper.png
+    - Images/transporter.png

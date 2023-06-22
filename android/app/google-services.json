@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30347226637",
+    "project_id": "otpvalidator-a7367",
+    "storage_bucket": "otpvalidator-a7367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30347226637:android:efec262e968060f0a9ef44",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30347226637-6d1vh238rlb1jocerilkkbgc768e8aqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWWsYli4nxeRVxgdhEu1ai4ctj_hdnjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30347226637-6d1vh238rlb1jocerilkkbgc768e8aqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
